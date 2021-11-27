@@ -1,4 +1,4 @@
-# Go Desktop Background Change
+# Go Reddit Background Changer
 A tool to change your background to the top post from your favorite subreddit.
 ***require internet to download pictures***
 ### Run
